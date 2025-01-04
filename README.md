@@ -1,1 +1,1 @@
-# iris_flower
+Iris flower prediction is about identifying the type of an iris flower (like Setosa, Versicolor, or Virginica) based on its features such as the length and width of its petals and sepals. By using a dataset of flower measurements and applying machine learning, a computer model learns patterns and can predict the flower type when given new measurements. This helps in understanding and classifying flowers quickly and accurately without expert knowledge.
